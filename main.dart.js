@@ -87650,7 +87650,7 @@ H(a){var s,r,q,p,o,n,m=this,l=null,k=t.w,j=A.b2(a,l,k).w.a.a,i=A.b2(a,l,k).w.a.b
 m.f=A.eT(a,!0,t.C).b
 k=j*0.15
 s=t.p
-r=A.bd(A.b([A.b7(l,l,k),A.bd(A.b([A.j7("ed_astra_dkt.png",l,140),B.lt],s),B.L,B.p,B.j),B.S4,A.b7(A.Dv(B.bU,l,A.u_(l,new A.el(4,A.hY(28),B.du),l,B.h7,l,l,l,l,!0,l,l,l,l,l,l,B.k,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,"Search",l,l,l,l,l,l,l,l,l,!0,l,B.hq,l,l,l,l,l,l,l,l,l,l,l),l,!1,l),36,j*0.17)],s),B.n,B.p,B.j)
+r=A.bd(A.b([A.b7(l,l,k),A.bd(A.b([A.j7("assets/ed_astra_dkt.png",l,140),B.lt],s),B.L,B.p,B.j),B.S4,A.b7(A.Dv(B.bU,l,A.u_(l,new A.el(4,A.hY(28),B.du),l,B.h7,l,l,l,l,!0,l,l,l,l,l,l,B.k,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,"Search",l,l,l,l,l,l,l,l,l,!0,l,B.hq,l,l,l,l,l,l,l,l,l,l,l),l,!1,l),36,j*0.17)],s),B.n,B.p,B.j)
 q=A.cn(l,A.bW(A.bM(A.b([B.YJ,B.dg,A.aY(l,l,B.m,l,l,new A.aP(m.f===0?B.b8:B.J,l,l,B.dt,l,l,B.x),l,5.6,l,l,l,l,90)],s),B.n,B.bv,B.j),B.I,l,l,l,l),B.A,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.apt(a),l,l,l,l,l,l)
 p=A.cn(l,A.bW(A.bM(A.b([B.XM,B.dg,A.aY(l,l,B.m,l,l,new A.aP(m.f===1?B.b8:B.J,l,l,B.dt,l,l,B.x),l,5.6,l,l,l,l,66)],s),B.n,B.bv,B.j),B.I,l,l,l,l),B.A,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.apu(a),l,l,l,l,l,l)
 o=A.cn(l,A.bW(A.bM(A.b([B.XW,B.dg,A.aY(l,l,B.m,l,l,new A.aP(m.f===2?B.b8:B.J,l,l,B.dt,l,l,B.x),l,5.6,l,l,l,l,74)],s),B.n,B.bv,B.j),B.I,l,l,l,l),B.A,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.apv(a),l,l,l,l,l,l)
@@ -87970,7 +87970,7 @@ H(a){var s,r,q=null,p=t.w,o=A.b2(a,q,p).w.a.a,n=t.p
 p=A.b2(a,q,p).w.a.b*0.03
 s=o*0.7
 r=o*0.17
-return A.C4(A.mB(q,B.ky,q,q,q,q,q,A.bd(A.b([A.b7(q,q,o*0.15),A.bd(A.b([A.j7("ed_astra_dkt.png",q,140),B.lt,B.le,B.EW],n),B.L,B.p,B.j)],n),B.n,B.p,B.j)),B.fR,A.iu(A.bM(A.b([A.b7(q,p,q),A.aY(q,q,B.m,q,q,B.Bw,q,240,q,q,q,q,s),A.b7(q,p,q),A.bQ(A.b7(A.bd(A.b([A.aY(q,B.ET,B.m,q,q,B.ef,q,q,q,B.c7,q,q,o*0.52),A.aY(q,A.bM(A.b([B.bf,A.tG(B.Y7,new A.a6d(),A.zc(q,q,B.ky,q,q,q,q,q,q,q,q,new A.u(r-14,36),q,q,B.i1,q,q,q,q,q)),B.cI,A.bM(A.b([new A.pq(B.o8,"Audi, Main Block",q),B.bx,new A.pq(B.Hh,"Full day event",q),B.bx,new A.pq(B.Hf,"March 31, 2025",q),B.bx,new A.pq(B.He,"Competition - Intracollege",q),B.lh,B.Yo],n),B.L,B.ai,B.j)],n),B.n,B.p,B.j),B.m,q,q,B.ef,q,q,q,B.nF,q,q,r)],n),B.L,B.ai,B.j),q,s),q,q)],n),B.n,B.ah,B.j)))}}
+return A.C4(A.mB(q,B.ky,q,q,q,q,q,A.bd(A.b([A.b7(q,q,o*0.15),A.bd(A.b([A.j7("assets/ed_astra_dkt.png",q,140),B.lt,B.le,B.EW],n),B.L,B.p,B.j)],n),B.n,B.p,B.j)),B.fR,A.iu(A.bM(A.b([A.b7(q,p,q),A.aY(q,q,B.m,q,q,B.Bw,q,240,q,q,q,q,s),A.b7(q,p,q),A.bQ(A.b7(A.bd(A.b([A.aY(q,B.ET,B.m,q,q,B.ef,q,q,q,B.c7,q,q,o*0.52),A.aY(q,A.bM(A.b([B.bf,A.tG(B.Y7,new A.a6d(),A.zc(q,q,B.ky,q,q,q,q,q,q,q,q,new A.u(r-14,36),q,q,B.i1,q,q,q,q,q)),B.cI,A.bM(A.b([new A.pq(B.o8,"Audi, Main Block",q),B.bx,new A.pq(B.Hh,"Full day event",q),B.bx,new A.pq(B.Hf,"March 31, 2025",q),B.bx,new A.pq(B.He,"Competition - Intracollege",q),B.lh,B.Yo],n),B.L,B.ai,B.j)],n),B.n,B.p,B.j),B.m,q,q,B.ef,q,q,q,B.nF,q,q,r)],n),B.L,B.ai,B.j),q,s),q,q)],n),B.n,B.ah,B.j)))}}
 A.a6d.prototype={
 $0(){A.ay1("Registration Successful")},
 $S:0}
@@ -88075,7 +88075,7 @@ A.pW.prototype={
 H(a){var s,r=null,q=t.w,p=A.b2(a,r,q).w.a.a,o=t.p
 q=A.b2(a,r,q).w.a.b*0.03
 s=p*0.7
-return A.C4(A.mB(r,B.uC,r,r,r,r,r,A.bd(A.b([A.b7(r,r,p*0.15),A.bd(A.b([A.j7("ed_astra_dkt.png",r,140),B.lt,B.le,B.EQ],o),B.L,B.p,B.j)],o),B.n,B.p,B.j)),B.fR,A.iu(A.bM(A.b([A.b7(r,q,r),A.aY(r,A.dH(B.AY,A.b([A.bd(A.b([A.j7("assets/tesla.jpeg",r,r),A.b7(r,r,p*0.03),B.ER],o),B.n,B.p,B.j),A.bd(A.b([A.tG(B.Y0,new A.a8U(),A.zc(r,r,B.ky,r,r,r,r,r,r,r,r,B.zA,r,r,B.i1,r,r,r,r,r)),B.ih,new A.NA(new A.a8V(),r,r,r,A.aP2(r,r,r,r,r,r,r,r,r,r,r,B.zA,r,r,B.i1,B.Bj,r,r,r,r),r,r,!1,r,!0,r,B.XJ,r)],o),B.n,B.bv,B.j)],o),B.E,B.am,r),B.m,r,r,B.ef,r,240,r,B.nG,r,r,s),A.b7(r,q,r),A.bQ(A.b7(A.bd(A.b([A.aY(r,B.EV,B.m,r,r,B.ef,r,r,r,B.c7,r,r,p*0.52),A.aY(r,A.bM(A.b([B.bf,B.PS,B.cW,B.bf,B.Yt,B.cI,A.bM(A.b([new A.LB(B.o8,"HQ, Deer Creek Park, TX",r),B.lh,B.cW,B.ap,A.bQ(A.bW(A.b8("View Full Profile",r,r,r,A.bE(r,r,B.eu,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.I,r,r,r,r),r,r)],o),B.L,B.ai,B.j)],o),B.n,B.p,B.j),B.m,r,r,B.ef,r,r,r,B.nF,r,r,p*0.17)],o),B.L,B.ai,B.j),r,s),r,r)],o),B.n,B.ah,B.j)))}}
+return A.C4(A.mB(r,B.uC,r,r,r,r,r,A.bd(A.b([A.b7(r,r,p*0.15),A.bd(A.b([A.j7("assets/ed_astra_dkt.png",r,140),B.lt,B.le,B.EQ],o),B.L,B.p,B.j)],o),B.n,B.p,B.j)),B.fR,A.iu(A.bM(A.b([A.b7(r,q,r),A.aY(r,A.dH(B.AY,A.b([A.bd(A.b([A.j7("assets/tesla.jpeg",r,r),A.b7(r,r,p*0.03),B.ER],o),B.n,B.p,B.j),A.bd(A.b([A.tG(B.Y0,new A.a8U(),A.zc(r,r,B.ky,r,r,r,r,r,r,r,r,B.zA,r,r,B.i1,r,r,r,r,r)),B.ih,new A.NA(new A.a8V(),r,r,r,A.aP2(r,r,r,r,r,r,r,r,r,r,r,B.zA,r,r,B.i1,B.Bj,r,r,r,r),r,r,!1,r,!0,r,B.XJ,r)],o),B.n,B.bv,B.j)],o),B.E,B.am,r),B.m,r,r,B.ef,r,240,r,B.nG,r,r,s),A.b7(r,q,r),A.bQ(A.b7(A.bd(A.b([A.aY(r,B.EV,B.m,r,r,B.ef,r,r,r,B.c7,r,r,p*0.52),A.aY(r,A.bM(A.b([B.bf,B.PS,B.cW,B.bf,B.Yt,B.cI,A.bM(A.b([new A.LB(B.o8,"HQ, Deer Creek Park, TX",r),B.lh,B.cW,B.ap,A.bQ(A.bW(A.b8("View Full Profile",r,r,r,A.bE(r,r,B.eu,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.I,r,r,r,r),r,r)],o),B.L,B.ai,B.j)],o),B.n,B.p,B.j),B.m,r,r,B.ef,r,r,r,B.nF,r,r,p*0.17)],o),B.L,B.ai,B.j),r,s),r,r)],o),B.n,B.ah,B.j)))}}
 A.a8U.prototype={
 $0(){A.ay1("Registration Successful")},
 $S:0}
@@ -88276,7 +88276,7 @@ r=A.a8l(o,o,r,o,o,new A.asW(p),o,o,o)
 q=A.bE(o,o,B.w,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)
 return A.b7(new A.xP(A.bM(A.b([n,B.bf,A.b7(A.Dv(B.La,p.f,A.u_(o,B.uU,o,o,B.a9,o,o,o,!0,new A.el(4,B.ds,new A.ba(B.eo,1,B.z,-1)),o,o,o,o,o,o,o,o,o,o,o,new A.el(4,B.ds,new A.ba(B.mO,1,B.z,-1)),o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,q,"Password",!0,o,s,o,o,o,o,o,o,r,o,o,o,o),40,l,m),60,o)],t.p),B.n,B.p,B.j),o),o,440)},
 FC(a){var s=null
-return A.mB(s,B.dA,1,A.bd(A.b([B.zE,A.bW(A.cn(s,A.j7("ed_astra_dkt.png",B.cP,190),B.A,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.asS(a),s,s,s,s,s,s),B.I,s,s,s,s),B.uV],t.p),B.L,B.p,B.j),330,B.b8,s,s)}}
+return A.mB(s,B.dA,1,A.bd(A.b([B.zE,A.bW(A.cn(s,A.j7("assets/ed_astra_dkt.png",B.cP,190),B.A,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.asS(a),s,s,s,s,s,s),B.I,s,s,s,s),B.uV],t.p),B.L,B.p,B.j),330,B.b8,s,s)}}
 A.at3.prototype={
 $0(){var s=this.a
 s.d=!s.d},
