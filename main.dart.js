@@ -93587,7 +93587,7 @@ A.nP(B.d6,new A.aum(this),t.P)},
 D(a){var s,r=null,q=t.w,p=A.W(a,r,q).w.a.a
 q=A.W(a,r,q).w
 s=p<600?300:400
-return A.w2(r,r,A.az(r,A.bQ(A.ay(A.b([A.af(A.i3("assets/ed_astra_dkt.png",B.du,200),r,s)],t.p),B.h,B.ac,B.e),r,r),B.m,B.n,r,r,r,q.a.b,r,r,r,r,p))}}
+return A.w2(r,r,A.az(r,A.bQ(A.ay(A.b([A.af(A.i3("assets/ed_astra_lt.png",B.du,200),r,s)],t.p),B.h,B.ac,B.e),r,r),B.m,B.n,r,r,r,q.a.b,r,r,r,r,p))}}
 A.aum.prototype={
 $0(){var s=this.a
 new A.LA(A.aHH(null),"https://api.edastra.in").wS(s.a.c).Ch(new A.aul(s))},
